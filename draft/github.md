@@ -3,7 +3,6 @@
 
 # **Что такое GitHub?**
 
-![git-github](./assets/git-github.png)
 
 ### [**< Что такое Git** ](whatisgit.md)
 ---

@@ -8,4 +8,4 @@
 
 
 
-![github](./assets/github.png)
+![github](./images/github.png)

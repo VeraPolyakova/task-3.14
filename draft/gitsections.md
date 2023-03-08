@@ -8,4 +8,4 @@
 3. Каталог Git (Git directory).
 
 
-![sections](./assets/sections.png)
+![sections](./images/sections.png)

@@ -10,11 +10,11 @@ LICENSE: [MIT](./license.md)
 
 # Содержание
 
-### [1. Что такое Git и для чего он нужен?](whatisgit.md)
-### [2. Преимущества Git](gitadvantages.md)
-### [3. Как установить Git](installgit.md)
-### [4. Три состояния Git](gitcondition.md)
-### [5. Git и GitHub](github.md)
+### [1. Что такое Git и для чего он нужен?](./draft/whatisgit.md)
+### [2. Преимущества Git](./draft/gitadvantages.md)
+### [3. Как установить Git](./draft/installgit.md)
+### [4. Три состояния Git](./draft/gitcondition.md)
+### [5. Git и GitHub](./draft/github.md)
 ### [6. Oсновные команды Git]
 ---
 

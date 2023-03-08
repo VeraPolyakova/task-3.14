@@ -4,7 +4,7 @@
 
 
 
-![git-img](./assets/git-img.webp)
+![git-img](./images/git-img.webp)
 
 
 **Git** — система управления версиями с распределенной архитектурой
